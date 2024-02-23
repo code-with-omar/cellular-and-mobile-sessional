@@ -1,3 +1,9 @@
+# If a signal to interference ratio of 15 dB is required for satisfactory forward channel 
+# performance of a cellular system, what is the frequency reuse factor and cluster size that 
+# should be used for maximum capacity if the path loss exponent is (a) n= 4 , (b) n = 3? 
+# Assume that there are 6 co-channels cells in the first tier and all of them are at the same 
+# distance from the mobile. Use suitable approximations. 
+
 import math
 
 

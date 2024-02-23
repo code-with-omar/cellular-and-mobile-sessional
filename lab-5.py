@@ -1,3 +1,11 @@
+# A certain city has an area of 1,300 square miles and is covered by a cellular system using 
+# a 7-cell reuse pattern. Each cell has a radius of 4 miles and the city is allocated 40 MHz 
+# of spectrum with a full duplex channel bandwidth of 60 kHz. Assume a GOS of 2% for 
+# an Erlang B system is specified. If the offered traffic per user is 0.03 Erlangs, compute 
+# (a) the number of cells in the service area, (b) the number of channels per cell, (c) traffic 
+# intensity of each cell, (d) the maximum carried traffic; (e) the total number of users that 
+# can be served for 2% GOS, (f') the number of mobiles per channel, and (g) the theoretical 
+# maximum number of users that could be served at one time by the system. 
 import math
 
 # Given values

@@ -1,3 +1,9 @@
+#  If a total of 33 MHz of bandwidth is allocated to a particular FDD cellular telephone 
+# system which uses two 25 kHz simplex channels to provide full duplex voice and control 
+# channels, compute the number of channels available per cell if a system uses (a) 4-cell 
+# reuse, (b) 7-cell reuse (c) 12-cell reuse. If 1 MHz of the allocated spectrum is dedicated to 
+# control channels, determine an equitable distribution of control channels and voice 
+# channels in each cell for each of the three systems. 
 band_width = 33e3
 single_channel_bandwidth = 25
 # duplex channel bandwidth

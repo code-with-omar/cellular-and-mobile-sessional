@@ -1,3 +1,6 @@
+#  How many users can be supported for 0.5% blocking probability for the following 
+# number of trunked channels in a blocked calls cleared system? (a) 1, (b) 5, (c) 10, (d) 20, 
+# (e) 100. Assume each user generates 0.1 Erlangs of traffic. 
 gos = 0.5 / 100
 Au = 0.1
 # from table
